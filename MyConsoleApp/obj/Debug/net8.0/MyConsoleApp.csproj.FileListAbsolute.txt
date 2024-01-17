@@ -7,6 +7,7 @@
 /Users/markk/Desktop/Moonstone_Assignments/tier4/startC#/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfoInputs.cache
 /Users/markk/Desktop/Moonstone_Assignments/tier4/startC#/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfo.cs
 /Users/markk/Desktop/Moonstone_Assignments/tier4/startC#/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/Users/markk/Desktop/Moonstone_Assignments/tier4/startC#/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.sourcelink.json
 /Users/markk/Desktop/Moonstone_Assignments/tier4/startC#/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.dll
 /Users/markk/Desktop/Moonstone_Assignments/tier4/startC#/MyConsoleApp/obj/Debug/net8.0/refint/MyConsoleApp.dll
 /Users/markk/Desktop/Moonstone_Assignments/tier4/startC#/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.pdb
