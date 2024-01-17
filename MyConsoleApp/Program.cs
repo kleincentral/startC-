@@ -119,6 +119,10 @@ int[,,,] d4object = {
 };
 
 Console.WriteLine(d4object[0, 0, 0, 0]);
+foreach (int i in d4object)
+{
+    Console.WriteLine(i);
+}
 
 int[,,,,,] d6object = {
     {{{{{1}}}}}
